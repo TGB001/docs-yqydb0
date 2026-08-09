@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-vuayvr.salamkita.shop/sitemap.xml
